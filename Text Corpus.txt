@@ -1,0 +1,3 @@
+<s> c a b c b c </s>
+<s> a c b a </s>
+<s> c a c a c </s>
